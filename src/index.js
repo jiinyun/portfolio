@@ -7,7 +7,7 @@ let PORTFOLIO_DATA = [
     img: "https://miro.medium.com/max/1400/1*bubW56HD3dK44Uj2Jvs-UA.png"
   },
   {
-    name: "calendar",
+    name: "calendarv2",
     img: "https://n32e9.csb.app/src/calendar.png"
   },
   {
