@@ -1,0 +1,29 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;;
+}
+
+#portfolio-list {
+  // display: flex;
+  // flex-wrap: wrap;
+  // justify-content: space-around;
+  column-count: 2;
+  column-gap: 20px;
+}
+
+.portfolio-entry {
+  box-shadow: 0 0 5px gray;
+  text-align: center;
+  background: #efefef3d;
+  margin-bottom: 15px; 
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  page-break-inside: avoid;
+  break-inside: avoid;
+
+  img {
+    width: 100%;
+  }
+}
